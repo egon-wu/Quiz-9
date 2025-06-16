@@ -1,6 +1,5 @@
-# Quiz-9
-# Quiz 8 – Imaging and Coding Technique Research
-
+# Quiz 9 – Imaging and Coding Technique Research
+# Egon wu yewu0515
 ## 🎨 Part 1: Imaging Technique Inspiration
 
 I am inspired by the bold, gestural abstraction in *Untitled Bull* by **Elaine de Kooning**, combined with the flat color blocking and line work typical of **pop art** (e.g. Andy Warhol’s *Do It Yourself (Violin)*). I aim to reinterpret the bull using abstract shapes, expressive brush-like movement, and bold contouring. These aesthetics help me explore dynamic identity and bodily fragmentation through form.
