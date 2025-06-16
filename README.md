@@ -5,10 +5,10 @@
 
 I am inspired by the bold, gestural abstraction in *Untitled Bull* by **Elaine de Kooning**, combined with the flat color blocking and line work typical of **pop art** (e.g. Andy Warhol’s *Do It Yourself (Violin)*). I aim to reinterpret the bull using abstract shapes, expressive brush-like movement, and bold contouring. These aesthetics help me explore dynamic identity and bodily fragmentation through form.
 
-![Untitled Bull – Elaine de Kooning](./3521746717026_.pic.jpg)
+![Untitled Bull – Elaine de Kooning](assest/untitled-bull- Elaine de Kooning.jpeg)
 *Elaine de Kooning, Untitled Bull*
 
-![Do It Yourself (Violin) – Andy Warhol](./3541746717449_.pic.jpg)
+![Do It Yourself (Violin) – Andy Warhol](assest/4791750039200_.pic.jpg)
 *Andy Warhol, Do It Yourself (Violin), 1962*
 
 ---
